@@ -1,0 +1,11 @@
+C:\Users\hp zbook\source\repos\WindowsFormsApp20\WindowsFormsApp20\bin\Debug\WindowsFormsApp20.exe.config
+C:\Users\hp zbook\source\repos\WindowsFormsApp20\WindowsFormsApp20\bin\Debug\WindowsFormsApp20.exe
+C:\Users\hp zbook\source\repos\WindowsFormsApp20\WindowsFormsApp20\bin\Debug\WindowsFormsApp20.pdb
+C:\Users\hp zbook\source\repos\WindowsFormsApp20\WindowsFormsApp20\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\hp zbook\source\repos\WindowsFormsApp20\WindowsFormsApp20\obj\Debug\WindowsFormsApp20.csprojAssemblyReference.cache
+C:\Users\hp zbook\source\repos\WindowsFormsApp20\WindowsFormsApp20\obj\Debug\WindowsFormsApp20.Form1.resources
+C:\Users\hp zbook\source\repos\WindowsFormsApp20\WindowsFormsApp20\obj\Debug\WindowsFormsApp20.Properties.Resources.resources
+C:\Users\hp zbook\source\repos\WindowsFormsApp20\WindowsFormsApp20\obj\Debug\WindowsFormsApp20.csproj.GenerateResource.cache
+C:\Users\hp zbook\source\repos\WindowsFormsApp20\WindowsFormsApp20\obj\Debug\WindowsFormsApp20.csproj.CopyComplete
+C:\Users\hp zbook\source\repos\WindowsFormsApp20\WindowsFormsApp20\obj\Debug\WindowsFormsApp20.exe
+C:\Users\hp zbook\source\repos\WindowsFormsApp20\WindowsFormsApp20\obj\Debug\WindowsFormsApp20.pdb
